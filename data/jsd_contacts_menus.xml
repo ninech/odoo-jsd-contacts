@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+  <menuitem id="jsd_contacts_menu_root" name="Jira Service Desk Contacts">
+    <menuitem id="jsd_connections_menu" name="Connections" action="jsd_connections_action"/>
+  </menuitem>
+</odoo>

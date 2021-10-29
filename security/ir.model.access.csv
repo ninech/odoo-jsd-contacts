@@ -1,0 +1,2 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_jsd_connection,access_jsd_connection,model_jsd_contacts_connection,base.group_user,1,1,1,1
